@@ -1,0 +1,6 @@
+[submodule "Curricula-UI"]
+	path = Curricula-UI
+	url = https://github.com/revaturelabs/Curricula-UI
+[submodule "Curricula-Service"]
+	path = Curricula-Service
+	url = https://github.com/revaturelabs/Curricula-Service
